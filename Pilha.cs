@@ -1,4 +1,5 @@
-﻿using System;
+//Aluno Alison Civiero 451219
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -130,3 +131,4 @@ class Pilha
         return 2 * size - 1;
     }
 }
+
